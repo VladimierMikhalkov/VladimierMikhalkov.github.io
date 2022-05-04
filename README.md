@@ -1,3 +1,2 @@
 # VladimierMikhalkov.github.io
-This is a simple site.
-For the <PRODUCT>...
+It seems like it's <font color = red>nothing</font> here
